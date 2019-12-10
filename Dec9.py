@@ -88,3 +88,10 @@ counter = 0
 while counter < len(g):
     print(counter)
     counter += 1
+
+import time
+print (time.time())
+print (dir(time))
+print (time.localtime())
+
+print(time.__doc__)
