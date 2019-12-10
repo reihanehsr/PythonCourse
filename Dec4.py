@@ -10,4 +10,5 @@ def div(x,y):
 print(div(20,10))
 
 
+print("one {} two {}".format(multi(2,5),div(20,10)))
 
